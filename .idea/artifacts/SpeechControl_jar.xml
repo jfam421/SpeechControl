@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpeechControl:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpeechControl_jar</output-path>
+    <root id="archive" name="SpeechControl.jar">
+      <element id="module-output" name="SpeechControl" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/libs/sphinx4-data.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/libs/sphinx4-core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
