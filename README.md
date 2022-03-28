@@ -1,2 +1,2 @@
 # SpeechControl
-An android application that uses Bluetooth socket to connect to another devices and to chat with another user
+A PC application that uses spinx lib to recognise voice(without internet connection) and do commands. There are several commands.
